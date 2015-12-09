@@ -6,7 +6,7 @@ This doc provides basic information for instructors: general outline of a Reprod
 
 <h2>Workshop outline</h2>
 
-As of September 2015, a ReprSci workshop has five modules: 1. Introduction; 2. Organization; 3. Version Control; 4. Automation; and 5. Publication. 
+[As of September 2015](http://reproducible-science-curriculum.github.io/2015-09-24-reproducible-science-duml/), a ReprSci workshop has six modules: 1. Introduction; 2. Organization; 3. Literate Programming; 4. Version Control; 5. Automation; and 6. Publication. 
 
 <h3>I. Introduction</h3>
 **Goals**: Recognize problems that reproducible research helps address; Identify pain points in getting analyses to be reproducible; Understand role of documentation, sharing, automation, and organization in making research more reproducible; Introduce some tools to solve these problems, specifically R/RStudio/RMarkdown.
