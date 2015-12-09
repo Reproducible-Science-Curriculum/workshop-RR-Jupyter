@@ -23,17 +23,17 @@ If appropriate, each lesson can be split into submodules. Submodules can help wi
 
 ## Content details
 ### License
-All #rrhack content is licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Copyright to all #rrhack content is waived using  [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ### Readme
 The README file is plain markdown (`.md`). The README should give an overview of the lesson and the contents of the repository. It contains:
-* a list of collaborators
 * a synopsis of the lesson
 * a syllabus / list of goals ("after this lesson, students should be able to...")
 * setup instructions
 * list and description of submodules
 * summary of other files in the repo
 * description and attribution of data or other resources used in the module
+* a corresponding author, using this text: 'The corresponding author is **First Last ([@github-username])**. See the commit log for other contributors.'
 
 ### Instructor notes
 Instructor notes are plain markdown (`.md`). The nodes should contain a detailed description of the lesson, including goals, timing, exercises, gotchas, presenter notes, etc.
