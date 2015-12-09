@@ -11,7 +11,7 @@ As of September 2015, a ReprSci workshop has five modules: 1. Introduction; 2. O
 <h3>I. Introduction</h3>
 **Goals**: Recognize problems that reproducible research helps address; Identify pain points in getting analyses to be reproducible; Understand role of documentation, sharing, automation, and organization in making research more reproducible; Introduce some tools to solve these problems, specifically R/RStudio/RMarkdown.
 
-**Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-intro]()
+**Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-intro](https://github.com/Reproducible-Science-Curriculum/rr-intro)
 
 **Sample slides**: [deck 1 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-01-slides.html) and [deck 2 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-02-slides.html)  
 
