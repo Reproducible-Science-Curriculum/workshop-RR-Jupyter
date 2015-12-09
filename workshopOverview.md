@@ -1,21 +1,32 @@
 <h1>Reproducible science workshop overview</h1>
 
-This doc provides basic information for instructors: general outline of a Reproducible Science workshop; location of materials; instructor skills needed for each module; examples of previous workshops. All of our material is on GitHub with a CC0 copyright waiver:
+This document provides basic information about Reproducible Science workshops for instructors:
 
-[Reproducible Science Curriculum on GitHub](https://github.com/Reproducible-Science-Curriculum)
+* general outline of a Reproducible Science workshop; 
+* location of materials; 
+* instructor skills needed for each module; 
+* examples of previous workshops. 
+
+All of our material is on GitHub with a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) copyright waiver: [Reproducible Science Curriculum on GitHub](https://github.com/Reproducible-Science-Curriculum)
 
 <h2>Workshop outline</h2>
 
-As of September 2015, a ReprSci workshop has five modules: 1. Introduction; 2. Organization; 3. Version Control; 4. Automation; and 5. Publication. 
+As of September 2015, a ReprSci workshop has five modules: 
 
-<h3>I. Introduction</h3>
+1. [Introduction](#intro);
+2. Organization; 
+3. Version Control; 
+4. Automation; 
+5. Publication. 
+
+<h3><a name="intro">I. Introduction</a></h3>
 **Goals**: Recognize problems that reproducible research helps address; Identify pain points in getting analyses to be reproducible; Understand role of documentation, sharing, automation, and organization in making research more reproducible; Introduce some tools to solve these problems, specifically R/RStudio/RMarkdown.
 
 **Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-intro](https://github.com/Reproducible-Science-Curriculum/rr-intro)
 
 **Sample slides**: [deck 1 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-01-slides.html) and [deck 2 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-02-slides.html)  
 
-<h3>II. Organization</h3>
+<h3><a name="organisation">II. Organization</a></h3>
 **Goals**: Students will learn the benefits of project and folder organization, and how these enable reproducibility and reusability. They will then complete an activity highlighting the structure of data files, emphasizing the importance of documenting any changes made. Finally, they will bring these two activities together in the context of a reproducible project workflow centered around using knitr in RStudio.
 
 **Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-organization1](https://github.com/Reproducible-Science-Curriculum/rr-organization1)
