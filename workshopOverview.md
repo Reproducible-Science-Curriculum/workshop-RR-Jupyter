@@ -14,10 +14,10 @@ All of our material is on GitHub with a [CC0](https://creativecommons.org/public
 As of September 2015, a ReprSci workshop has five modules: 
 
 1. [Introduction](#intro);
-2. Organization; 
-3. Version Control; 
-4. Automation; 
-5. Publication. 
+2. [Organization](#organization); 
+3. [Version Control](#version_control); 
+4. [Automation](#automation); 
+5. [Publication](#publication). 
 
 <h3><a name="intro">I. Introduction</a></h3>
 **Goals**: Recognize problems that reproducible research helps address; Identify pain points in getting analyses to be reproducible; Understand role of documentation, sharing, automation, and organization in making research more reproducible; Introduce some tools to solve these problems, specifically R/RStudio/RMarkdown.
@@ -26,14 +26,14 @@ As of September 2015, a ReprSci workshop has five modules:
 
 **Sample slides**: [deck 1 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-01-slides.html) and [deck 2 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-02-slides.html)  
 
-<h3><a name="organisation">II. Organization</a></h3>
+<h3><a name="organization">II. Organization</a></h3>
 **Goals**: Students will learn the benefits of project and folder organization, and how these enable reproducibility and reusability. They will then complete an activity highlighting the structure of data files, emphasizing the importance of documenting any changes made. Finally, they will bring these two activities together in the context of a reproducible project workflow centered around using knitr in RStudio.
 
 **Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-organization1](https://github.com/Reproducible-Science-Curriculum/rr-organization1)
 
 **Sample slides**: [file organization](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/organization-slides/), [file naming](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/naming-slides/) and [literate programming](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/lit-prog-slides/)
 
-<h3>III. Version Control</h3>
+<h3><a name="version_control">III. Version Control</a></h3>
 The initial version of the workshop didn't include version control, but there were many requests for this module during the first workshop at Duke, so we added it for the iDigBio workshop. 
 
 **Goals**: Initiate Git in a local project directory; Evaluate repository History; Know the difference between directory and repository; Commit changes to files; Push local repository to remote repository on Github; Clone a remote repository; Create a pull request to someone else's remote repository; Differentiate between a local and remote repository.
@@ -42,14 +42,14 @@ The initial version of the workshop didn't include version control, but there we
 
 **Sample slides**: [slides!](http://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/vcs-slides/01-motivation-slides.html)
 
-<h3>II. Automation</h3>
+<h3><a name="automation">IV. Automation</a></h3>
 **Goals**: Transforming scripts into functions; Make files as a concept; Utilizing free continuous integration tools;   Recreate figures automatically
 
 **Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-automation](https://github.com/Reproducible-Science-Curriculum/rr-automation)
 
 **Sample slides**: none (all hands-on in R)
 
-<h3>II.Publication</h3>
+<h3><a name="publication">V.Publication</a></h3>
 **Goals**: Why, what and how to publish research materials; Choosing a data repository; Choosing licenses for software + data
 
 **Repository**: [https://github.com/Reproducible-Science-Curriculum/rr-publication](https://github.com/Reproducible-Science-Curriculum/rr-publication)
