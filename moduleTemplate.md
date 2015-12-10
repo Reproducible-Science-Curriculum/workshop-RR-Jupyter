@@ -1,4 +1,4 @@
-This document describes the content and format for a module. Each #rrhack module is a separate git repository.
+This document describes the content and format for a module. Each #rrhack module is a separate git repository. The [template-module](https://github.com/Reproducible-Science-Curriculum/template-module) repo is setup with this format, and you can fork that repo as a starting point for creating a new lesson. 
 
 The [rr-intro](https://github.com/Reproducible-Science-Curriculum/rr-intro) repository is a good example module.
 
