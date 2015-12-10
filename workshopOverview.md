@@ -60,9 +60,9 @@ The initial version of the workshop didn't include version control, but there we
 *Sample slides*: none (all hands-on in R)
 
 <h3><a name="publication">V.Publication</a></h3>
-**Goals**: Why, what and how to publish research materials; Choosing a data repository; Choosing licenses for software + data
+**Goals**: Students will learn why and how to publish research materials. They will be know what the advantages and arguments for open access publishing and public domain. They will understand which research outputs should and should not (e.g. confidential data) be published. They will be able to select relevant repositories for their research outputs. Students will gain knowledge about choosing licenses for software and data produced during their research.
 
-**Instructor's skills:** Understanding of requirements for reproducible publication.
+**Instructor's skills:** Understanding of requirements for reproducible publication. Understanding of differences between publication, sharing and archiving. Understanding the difference between open and restricted access publication. Overview of tools and repositories for publishing research outputs. Knowledge of different licensing models and ability to discuss major differences between the most commonly used licenses in research.
 
 **Materials**:<br/>
 *Repository*: [https://github.com/Reproducible-Science-Curriculum/rr-publication](https://github.com/Reproducible-Science-Curriculum/rr-publication)<br/>
