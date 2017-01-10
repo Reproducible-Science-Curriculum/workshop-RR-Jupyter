@@ -5,23 +5,25 @@ permalink: /license/
 ---
 ## Instructional Material
 
-All Software Carpentry and Data Carpentry instructional material is
-made available under the [Creative Commons Attribution
-license][cc-by-human]. The following is a human-readable summary of
-(and not a substitute for) the [full legal text of the CC BY 4.0
-license][cc-by-legal].
+Software Carpentry and Data Carpentry instructional material is generally
+made available under the [Creative Commons Attribution license][cc-by-human] (CC-BY).
+For instructional material that originates from the Reproducible Science
+Curriculum, the authors and contributors also have, to the extent possible
+under law, waived all copyright and related or neighboring rights to this
+material by releasing it under the [CC Zero public domain waiver][cc0-human].
+
+The following is a human-readable summary of (and not a substitute for) the
+[full legal text of the CC-BY 4.0 license][cc-by-legal].
 
 You are free:
 
 * to **Share**---copy and redistribute the material in any medium or format
 * to **Adapt**---remix, transform, and build upon the material
 
-for any purpose, even commercially.
+for any purpose, even commercially, without asking for permission.
 
-The licensor cannot revoke these freedoms as long as you follow the
-license terms.
-
-Under the following terms:
+The licensor cannot revoke these freedoms as long as you attribute us as
+per the following terms. 
 
 * **Attribution**---You must give appropriate credit (mentioning that
   your work is derived from work that is Copyright © Software
@@ -31,9 +33,15 @@ Under the following terms:
   so in any reasonable manner, but not in any way that suggests the
   licensor endorses you or your use.
 
+**For material released under the CC0 public domain waiver, the attribution
+clause above is not a legal requirement.** (See the [legal text of CC0][cc0-legal].)
+However, we ask nonetheless that whenever it is feasible and appropriate based
+on applicable social and community norms that you give credit to us as per the
+above suggestions.
+
 **No additional restrictions**---You may not apply legal terms or
 technological measures that legally restrict others from doing
-anything the license permits.  With the understanding that:
+anything the public domain waiver or license permit.
 
 Notices:
 
@@ -78,6 +86,8 @@ are registered trademarks of [NumFOCUS][numfocus].
 
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
+[cc0-human]: https://creativecommons.org/publicdomain/zero/1.0/
+[cc0-legal]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
 [numfocus]: http://numfocus.org/
 [osi]: http://opensource.org
