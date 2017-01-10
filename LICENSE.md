@@ -5,53 +5,32 @@ permalink: /license/
 ---
 ## Instructional Material
 
-Software Carpentry and Data Carpentry instructional material is generally
-made available under the [Creative Commons Attribution license][cc-by-human] (CC-BY).
-For instructional material that originates from the Reproducible Science
-Curriculum, the authors and contributors also have, to the extent possible
-under law, waived all copyright and related or neighboring rights to this
-material by releasing it under the [CC Zero public domain waiver][cc0-human].
+The Data Carpentry Reproducible Science Curriculum instructional material
+authors and contributors, to the extent possible under law, have waived
+all copyright and related or neighboring rights to this material by releasing
+it under the [CC Zero public domain waiver][cc0-human].
 
 The following is a human-readable summary of (and not a substitute for) the
-[full legal text of the CC-BY 4.0 license][cc-by-legal].
+[full legal text of the CC0 waiver][cc0-legal]:
 
-You are free:
+* You can copy, modify, distribute and perform this work, even for commercial purposes, all without asking permission.
 
-* to **Share**---copy and redistribute the material in any medium or format
-* to **Adapt**---remix, transform, and build upon the material
+These freedoms cannot be revoked, since the material is in the public domain.
 
-for any purpose, even commercially, without asking for permission.
-
-The licensor cannot revoke these freedoms as long as you attribute us as
-per the following terms. 
-
-* **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Software
-  Carpentry and, where practical, linking to
-  http://software-carpentry.org/), provide a [link to the
-  license][cc-by-human], and indicate if changes were made. You may do
-  so in any reasonable manner, but not in any way that suggests the
-  licensor endorses you or your use.
-
-**For material released under the CC0 public domain waiver, the attribution
-clause above is not a legal requirement.** (See the [legal text of CC0][cc0-legal].)
-However, we ask nonetheless that whenever it is feasible and appropriate based
-on applicable social and community norms that you give credit to us as per the
-above suggestions.
-
-**No additional restrictions**---You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the public domain waiver or license permit.
-
-Notices:
-
-* You do not have to comply with the license for elements of the
-  material in the public domain or where your use is permitted by an
-  applicable exception or limitation.
-* No warranties are given. The license may not give you all of the
-  permissions necessary for your intended use. For example, other
-  rights such as publicity, privacy, or moral rights may limit how you
-  use the material.
+* **Attribution** --- Although not legally required or enforceable, we ask
+  that whenever feasible and appropriate based on applicable social and
+  community norms that you give appropriate credit (mentioning that
+  your work is derived from this work, and where practical linking to
+  the respective workshop or lesson website), and indicate if changes were
+  made. Note that CC0 does not permit you to do this in a way that suggests
+  we endorse you, your modifications to, or your use of the material.
+* **No additional restrictions**---You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the public domain waiver permits.
+* **No warranties are given.** Furthermore, the public domain release of this
+  material may not give you all of the permissions necessary for your intended
+  use. For example, other rights such as publicity, privacy, or moral rights
+  may limit how you use the material.
 
 ## Software
 
@@ -84,8 +63,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 "Software Carpentry" and "Data Carpentry" and their respective logos
 are registered trademarks of [NumFOCUS][numfocus].
 
-[cc-by-human]: https://creativecommons.org/licenses/by/4.0/
-[cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [cc0-human]: https://creativecommons.org/publicdomain/zero/1.0/
 [cc0-legal]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
