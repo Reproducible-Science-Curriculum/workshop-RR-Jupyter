@@ -1,2 +1,3 @@
-# planning
-Issue tracking and activity documentation around planning / promoting curriculum development and teaching
+# Workshop overview
+
+Website for the overview of the Reproducible Science in R workshop overview.
