@@ -6,9 +6,11 @@ MAKEFILES=Makefile $(wildcard *.mk)
 JEKYLL=jekyll
 PARSER=bin/markdown_ast.rb
 DST=_site
+JEKYLL_CONTAINER=jekyll/jekyll
+DOCKER=docker
 
 # Controls
-.PHONY : commands clean files
+.PHONY : commands clean files serve pull-container
 all : commands
 
 ## commands         : show all commands.
@@ -17,7 +19,15 @@ commands :
 
 ## serve            : run a local server.
 serve : lesson-rmd
-	${JEKYLL} serve
+	$(JEKYLL) serve --config _config.yml,_config-dev.yml
+
+## serve-docker     : run a local server within a Docker container
+serve-docker : override JEKYLL=$(DOCKER) run --volume=${PWD}:/srv/jekyll -it -p 127.0.0.1:4000:4000 $(JEKYLL_CONTAINER) jekyll
+serve-docker : pull-container serve
+
+## pull-container   : update the Jekyll Docker container
+pull-container :
+	$(DOCKER) pull $(JEKYLL_CONTAINER)
 
 ## site             : build files but do not run a server.
 site : lesson-rmd
