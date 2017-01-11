@@ -36,7 +36,7 @@ All of our material is on GitHub with a [CC0](https://creativecommons.org/public
 **Instructor's skills:** Good understanding of the concept of reproducibility. Ability to list common problems emerging if research cannot be reproduced. Knowledge of, at least selected, tools, processes and approaches to making research reproducible. 
 
 **Materials**<br/>
-*Repository*: https://github.com/Reproducible-Science-Curriculum/rr-intro <br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/rr-intro> <br/>
 *Sample slides*: [deck 1 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-01-slides.html) and [deck 2 from Duke workshop](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/intro-slides/intro-02-slides.html)  
 
 ### II. Organization
@@ -45,7 +45,7 @@ All of our material is on GitHub with a [CC0](https://creativecommons.org/public
 **Instructor's skills**: Good understanding of file organisation in research projects. Understanding of file structure on major operating systems (Windows, Linux/Unix, Mac OS) and the interface/commands for managing files and folders. Understanding of basic file types (binary vs. text). At least a basic overview of how files are stored (and deleted) in different operating systems. Understanding of file and folder naming conventions (names, extensions etc.).  
 
 **Materials**<br/>
-*Repository*: https://github.com/Reproducible-Science-Curriculum/rr-organization1 <br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/rr-organization1> <br/>
 *Sample slides*: [file organization](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/organization-slides/) and [file naming](http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/naming-slides/)
 
 ### III. Literate Programming
@@ -62,7 +62,7 @@ ensurance and control reports.
 **Instructor's skills**: Good understanding of literate programming as a concept. Good knowledge of Markdown syntax, R programming basics, Rmarkdown syntax and how to control the behavior of `knitr` on Rmarkdown code chunks. Good understanding of best practices for data organization and manipulation for tabular observational data.  
 
 **Materials**<br/>
-*Repository*: https://github.com/Reproducible-Science-Curriculum/rr-literate-programming <br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/rr-literate-programming> <br/>
 *Sample slides*: [literate programming](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Reproducible-Science-Curriculum/rr-literate-programming/master/02-literate-programming-slides.html)
 
 ### IV. Version Control
@@ -73,7 +73,7 @@ The initial version of the workshop didn't include version control, but there we
 **Instructor's skills**: Very good understanding of the concept of version control. Solid practical knowledge of Git and GitHub. Recommended: knowledge of other version control (SVN, Mercurial); ability to highlight the advantages of version control over tools such as Dropbox or tracking changes in binary documents (MS Word).
 
 **Materials**<br/>
-*Repository*: https://github.com/Reproducible-Science-Curriculum/rr-version-control <br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/rr-version-control> <br/>
 *Sample slides*: [slides!](http://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/vcs-slides/01-motivation-slides.html)
 
 ### V. Automation
@@ -82,7 +82,7 @@ The initial version of the workshop didn't include version control, but there we
 **Instructor's skills:** Good understanding of programming concepts, in particular code modularisation, writing and using functions, code reusability and so on. Good understanding of selected software engineering concepts such as project build and automation, code testing, continuous integration and  so on. Solid knowledge of R, RStudio and relevant packages (consult the materials for details). Understanding of basic statistical concepts (consult the materials for details).  
 
 **Materials**: <br/>
-*Repository*: https://github.com/Reproducible-Science-Curriculum/rr-automation <br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/rr-automation> <br/>
 *Sample slides*: none (all hands-on in R)
 
 ### VI. Publication
@@ -91,7 +91,7 @@ The initial version of the workshop didn't include version control, but there we
 **Instructor's skills:** Understanding of requirements for reproducible publication. Understanding of differences between publication, sharing and archiving. Understanding the difference between open and restricted access publication. Overview of tools and repositories for publishing research outputs. Knowledge of different licensing models and ability to discuss major differences between the most commonly used licenses in research.
 
 **Materials**:<br/>
-*Repository*: https://github.com/Reproducible-Science-Curriculum/rr-publication <br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/rr-publication> <br/>
 *Sample slides*: [slides!](http://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/slides/01-publication-slides.html)
 
 
