@@ -17,6 +17,9 @@ contact: "mailto:lessons@software-carpentry.org"
 # Generic settings (should not need to change).
 #------------------------------------------------------------
 
+# the base URL of the site, must not end in /
+url: /rr-workshop
+
 # What kind of thing is this ("workshop" or "lesson")?
 kind: "lesson"
 
@@ -56,8 +59,6 @@ collections:
 
 # Set the default layout for things in the episodes collection.
 defaults:
-  - values:
-      root: ..
   - scope:
       path: ""
       type: episodes
