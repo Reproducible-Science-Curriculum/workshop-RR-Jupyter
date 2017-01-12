@@ -44,7 +44,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 
 **Goals**: Students will understand the concept, importance, and components of reproducible research; understand the strengths of Jupyter Notebooks as a tool for reproducible research; be able tp create and navigate through a Jupyter Notebook containing Markdown and Code cells; and be able to know and access the broader Jupyter and Python ecosystems and communities.
 
-**Instructor's skills:** ...
+**Instructor's skills:** Familiarity with Jupyter notebooks; familiarity with markdown; basic python skills.
 
 **Materials**<br/>
 *Repository*: <https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter>
