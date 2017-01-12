@@ -37,8 +37,8 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 1. [Introduction](#i-introduction)
 2. [Data and Project Organization](#ii-data-and-project-organization)
 3. [Data Exploration](#iii-data-exploration)
-4. [Automation](#v-automation)
-5. [Publication and Sharing](#vi-publication-and-sharing)
+4. [Automation](#iv-automation)
+5. [Publication and Sharing](#v-publication-and-sharing)
 
 ### I. Introduction
 
