@@ -56,7 +56,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills**: Good understanding of file organisation in research projects. Understanding of file structure on major operating systems (Windows, Linux/Unix, Mac OS) and the interface/commands for managing files and folders. Understanding of basic file types (binary vs. text). At least a basic overview of how files are stored (and deleted) in different operating systems. Understanding of file and folder naming conventions (names, extensions etc.).
 
 **Materials**<br/>
-*Repository*: <https://github.com/Reproducible-Science-Curriculum/organization-RR-Jupyter>
+*Repository*: <https://reproducible-science-curriculum.github.io/organization-RR-Jupyter/>
 
 ### III. Data Exploration
 
@@ -65,7 +65,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills**: 
 
 **Materials**<br/>
-*Repository*: <https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter>
+*Repository*: <https://reproducible-science-curriculum.github.io/data-exploration-RR-Jupyter/>
 
 ### IV. Automation
 
@@ -74,7 +74,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills:** Good understanding of programming concepts, in particular code modularisation, writing and using functions, code reusability and so on. Good understanding of selected software engineering concepts such as project build and automation, code testing, continuous integration and  so on. Solid knowledge of Python, Jupyter, and relevant packages (consult the materials for details). Understanding of basic statistical concepts (consult the materials for details).
 
 **Materials**: <br/>
-*Repository*: <https://github.com/Reproducible-Science-Curriculum/automation-RR-Jupyter>
+*Repository*: <https://reproducible-science-curriculum.github.io/automation-RR-Jupyter/>
 
 ### V. Publication and Sharing
 
@@ -83,7 +83,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Instructor's skills:** Understanding of requirements for reproducible publication. Understanding of differences between publication and sharing. Understanding the difference between open and restricted access publication. Overview of tools and repositories for publishing research outputs. Knowledge of different licensing models and ability to discuss major differences between the most commonly used licenses in research.
 
 **Materials**:<br/>
-*Repository*: <https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter>
+*Repository*: <https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/>
 
 ## Workshops held previously
 
