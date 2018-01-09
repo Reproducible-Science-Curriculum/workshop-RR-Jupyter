@@ -18,7 +18,7 @@ contact: "mailto:lessons@software-carpentry.org"
 #------------------------------------------------------------
 
 # the base URL of the site, must not end in /
-url: /rr-jupyter-workshop
+url: /workshop-RR-Jupyter
 
 # What kind of thing is this ("workshop" or "lesson")?
 kind: "lesson"
