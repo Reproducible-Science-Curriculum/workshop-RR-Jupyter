@@ -3,7 +3,6 @@ layout: page
 title: Setup
 permalink: /setup/
 ---
-# Reproducible Science Jupyter Curriculum
 
 ## Installing `Python`
 
