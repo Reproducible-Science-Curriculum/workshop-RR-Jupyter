@@ -53,4 +53,6 @@ We will teach `Python` using the [Jupyter Notebook](http://jupyter.org), a progr
     
     and the default web browser should load and display the Jupyter dashboard.
 
+## Credits
+
 This installation tutorial is taken from [Software Carpentry](http://swcarpentry.github.io/workshop-template/#setup)
