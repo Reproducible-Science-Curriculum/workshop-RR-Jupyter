@@ -62,7 +62,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 
 **Goals**: Students will be able to assess the structure and cleanliness of their dataset; be able to describe their findings, translate results, and summarize their thought process in a narrative comprised of Markdown text and Python code in a Jupyter Notebook; learn practices for modifying raw data to prepare a clean data set in a reproducible and documented way; and be able to assess whether their data is “Tidy”, and how to arrange it into a tidy format.
 
-**Instructor's skills**: 
+**Instructor's skills**: Facility with tabular data. Understanding of the steps needed to reshape, merge, and subset data. Knowledge of different types of plots, and which types of plots are appropriate for various kinds of data. Familiaritiy with regular expressions, `pandas`, and `matplotlib` is helpful.
 
 **Materials**<br/>
 *Repository*: <https://reproducible-science-curriculum.github.io/data-exploration-RR-Jupyter/>
