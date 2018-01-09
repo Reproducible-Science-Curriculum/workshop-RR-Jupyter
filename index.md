@@ -87,7 +87,14 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 
 ## Workshops held previously
 
-This curriculum is in early development and has not been taught yet.
+This curriculum is in early development. The inital version of the curriculum (resulting from the [Jan 2017 development workshop](https://github.com/Reproducible-Science-Curriculum/RR-Jupyter-Hackathon-Jan-2017)) has been taught as follows:
+
+* [Duke University, March 2017](https://reproducible-science-curriculum.github.io/2017-03-15-duke/) (full 2-day curriculum)
+* [NIH, April 2017](http://bit.ly/nih-python) (shortened 1-day version)
+
+The next iteration of the curriculum (resulting from the [Jan 2018 development workshop]()) is scheduled to be taught at the following workshops:
+* [UC Merced, Jan 2018](http://www.datacarpentry.org/2018-01-11-ucmerced/)
+* [NIH, Jan 2018](https://training.cit.nih.gov/class_details.aspx?cId=NIHCIT-SS499)
 
 ## Ongoing work
 
