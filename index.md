@@ -46,7 +46,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 
 **Goals**: Introduction to the workshop, including motivation, agenda and goals for the workshop.
 
-Materials: [Introduction to the workshop](<https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/>)
+Materials: [Introduction to the workshop](<https://reproducible-science-curriculum.github.io/workshop-introduction-RR-Jupyter/>)
 
 ### II. Data and Project Organization
 
