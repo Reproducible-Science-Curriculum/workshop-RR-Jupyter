@@ -86,7 +86,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Materials**: <br/>
 *Repository*: <https://reproducible-science-curriculum.github.io/automation-RR-Jupyter/>
 
-### V. Publication
+### VI. Publication
 
 **Goals**: Students will learn how to export their notebooks in a variety of formats for publication; be able to describe the utility of documentation to themselves and others; be able to describe and compose appropriate and descriptive keywords for a given record; be able to define and describe the importance of unique identifiers for data, publication and software; and learn how to select an appropriate license for their research artifacts.
 
@@ -95,7 +95,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Materials**:<br/>
 *Repository*: <https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/>
 
-### VI. Sharing
+### VII. Sharing
 
 **Goals**: Students will learn how to share their notebooks in a variety of formats.
 
