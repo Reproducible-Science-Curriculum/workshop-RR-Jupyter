@@ -46,7 +46,8 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 
 **Goals**: Introduction to the workshop, including motivation, agenda and goals for the workshop.
 
-Materials: [Introduction to the workshop](<https://reproducible-science-curriculum.github.io/workshop-introduction-RR-Jupyter/>)
+**Materials**<br/>
+*Repository*: <https://reproducible-science-curriculum.github.io/workshop-introduction-RR-Jupyter/>
 
 ### II. Data and Project Organization
 
@@ -54,7 +55,8 @@ Materials: [Introduction to the workshop](<https://reproducible-science-curricul
 
 **Instructor's skills**: Good understanding of file organisation in research projects. Understanding of file structure on major operating systems (Windows, Linux/Unix, Mac OS) and the interface/commands for managing files and folders. Understanding of basic file types (binary vs. text). At least a basic overview of how files are stored (and deleted) in different operating systems. Understanding of file and folder naming conventions (names, extensions etc.).
 
-**Materials**<br/>:[Data and project organization](https://reproducible-science-curriculum.github.io/organization-RR-Jupyter/)
+**Materials**<br/>
+*Repository*: <https://reproducible-science-curriculum.github.io/organization-RR-Jupyter/>
 
 ### III. Introduction to the Jupyter notebook
 
@@ -62,8 +64,8 @@ Materials: [Introduction to the workshop](<https://reproducible-science-curricul
 
 **Instructor's skills:** Familiarity with Jupyter notebooks; familiarity with markdown; basic python skills.
 
-**Materials**<br/> <https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter>
-
+**Materials**<br/>
+*Repository*: <https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter>
 
 
 ### IV. Data Exploration
