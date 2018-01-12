@@ -100,7 +100,7 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 **Goals**: Students will learn how to share their notebooks in a variety of formats.
 
 **Materials**<br/>
-<https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter>
+<https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/>
 
 ## Workshops held previously
 
