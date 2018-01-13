@@ -97,10 +97,12 @@ A Reproducible Science with Jupyter Notebooks Curriculum workshop currently has 
 
 ### VII. Sharing
 
-**Goals**: Students will learn how to share their notebooks in a variety of formats.
+**Goals**: Students will learn how to share their Jupyter notebooks online, both static (using GitHub) and interactive (using Binder).
+
+**Instructor's skills:** Some familiarity with GitHub, understanding of software dependencies and (containerized) environments.
 
 **Materials**<br/>
-<https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/>
+*Repository*: <https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/>
 
 ## Workshops held previously
 
